@@ -13,8 +13,7 @@ public class PrintStudentDetails {
     /** user interactions - view class
      * to print 3 student details - name , age
      */
-    public static void main(String[] args)
-    {
+    public static void main(String[] args){
       Student[] list = new Student[3] ;  //array of object decalration
       //define 3 students  by creating object of student class
         Student s1 = new Student(); // s1 - object

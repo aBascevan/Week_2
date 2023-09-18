@@ -8,8 +8,7 @@ package printstudentdetails;
  * model  - the student entity 
  * @author srinivsi
  */
-public class Student 
-{
+public class Student {
    private String name; // Encapsulation principle
    private int age;// getters /setters method
 
